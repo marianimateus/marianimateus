@@ -13,3 +13,5 @@
 </div>
 
 ##
+
+Oi, eu sou o Mateus! Sou Futuro Desenvolvedor Full-stack, com uma paixão por desenvolver aplicações web que fazem um impacto positivo na vida das pessoas. Além de programar e aprender novas tecnologias, gosto jogar jogos online, ler (periódicamente) e passar um tempo de qualidade com quem está a minha volta. Se algum desses assuntos também te interessa, adoraria conversar!
